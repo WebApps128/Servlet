@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 //@WebServlet("/MarraigeApp")
 public class MarraigeApp extends HttpServlet {
 	
-
+//this project is created by binayaka
 	public void doPost(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
 		  
 		PrintWriter pw = res.getWriter();
